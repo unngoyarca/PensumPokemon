@@ -1,0 +1,15 @@
+F:\C# Project\PokemonPensum\PokemonPensum\bin\Debug\net6.0\PokemonPensum.exe
+F:\C# Project\PokemonPensum\PokemonPensum\bin\Debug\net6.0\PokemonPensum.deps.json
+F:\C# Project\PokemonPensum\PokemonPensum\bin\Debug\net6.0\PokemonPensum.runtimeconfig.json
+F:\C# Project\PokemonPensum\PokemonPensum\bin\Debug\net6.0\PokemonPensum.dll
+F:\C# Project\PokemonPensum\PokemonPensum\bin\Debug\net6.0\PokemonPensum.pdb
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\PokemonPensum.csproj.AssemblyReference.cache
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\PokemonPensum.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\PokemonPensum.AssemblyInfoInputs.cache
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\PokemonPensum.AssemblyInfo.cs
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\PokemonPensum.csproj.CoreCompileInputs.cache
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\PokemonPensum.dll
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\refint\PokemonPensum.dll
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\PokemonPensum.pdb
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\PokemonPensum.genruntimeconfig.cache
+F:\C# Project\PokemonPensum\PokemonPensum\obj\Debug\net6.0\ref\PokemonPensum.dll
